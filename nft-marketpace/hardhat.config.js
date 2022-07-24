@@ -10,8 +10,8 @@ module.exports = {
     },
     goerli:{
       url:'https://goerli.infura.io/v3/${projectId}',
-      accounts: []
+      accounts: [privateKey]
     }
   },
-  solidity: "0.8.9",
+  solidity: "0.8.4",
 };
