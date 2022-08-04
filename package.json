@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@next/swc-wasm-web": "^12.0.5-canary.3"
+  },
+  "devDependencies": {
+    "@zeit/next-css": "^1.0.1",
+    "stylelint-config-recommended": "^8.0.0"
+  }
+}
