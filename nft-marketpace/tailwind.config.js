@@ -1,6 +1,6 @@
-/** @type {import('tailwindcss').Config} */
+/** @type {import('tailwindcss').Config} */ 
 module.exports = {
-  content: [],
+  content: ['/home/monesh/Desktop/NFT_Marketplace/nft-marketpace/pages/_app.js', ],
   theme: {
     extend: {},
   },
